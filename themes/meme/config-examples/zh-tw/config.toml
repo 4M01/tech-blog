@@ -96,15 +96,15 @@ uglyURLs = false
 # 作者資訊
 [author]
     # 名字
-    name = "reuixiy"
+    name = "Amol Chavan"
     # 郵箱
-    email = "reuixiy@gmail.com"
+    email = "2amolchavan@gmail.com"
     # 座右銘或簡介
-    motto = "Viva La Vida"
+    # motto = "Viva La Vida"
     # 頭像
     avatar = "/icons/apple-touch-icon.png"
     # 網站（預設值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://amol.blog/"
     # 推特
     twitter = "reuixiy"
 
@@ -352,7 +352,7 @@ uglyURLs = false
     # 注意：請保持此格式，更改數字
 
     # 站點的推特帳號
-    siteTwitter = "reuixiy"
+    siteTwitter = "AmolChavan_"
     # 說明：用於 Twitter Cards
 
 
