@@ -6,7 +6,7 @@ title = "Amol's blog"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-# copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # Name of theme
 theme = "meme"
@@ -98,17 +98,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "Amol Chavan"
+    name = "reuixiy"
     # Email
-    email = "2amolchavan@gmail.com"
+    email = "reuixiy@gmail.com"
     # Motto or introduction
-    # motto = "Viva La Vida"
+    motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://amol.blog/"
+    website = "https://io-oi.me/"
     # Twitter
-    twitter = "AmolChavan_"
+    twitter = "reuixiy"
 
 # Related content
 [related]
@@ -428,7 +428,7 @@ uglyURLs = false
     # Set to a non-negative number to limit
     # the number of posts displayed per
     # category/section.
-    limitPostsLimit = 5
+    limitPostsLimit = -1
 
 
     ######################################
@@ -1285,11 +1285,11 @@ uglyURLs = false
     ######################################
     # Footer
 
-    enableFooter = true
+    enableFooter = false
 
-    displayFooter = true
+    displayFooter = false
 
-    displayFooterInHome = true
+    displayFooterInHome = false
 
     displayCopyleftSymbol = false
     displayCopyrightSymbol = true
