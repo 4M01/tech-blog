@@ -98,15 +98,15 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Amol Chavan"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "2amolchavan@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    # motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://amol.blog/"
     # Twitter
     twitter = "reuixiy"
 
@@ -210,25 +210,25 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        pageref = "/posts/"
+        pageref = "https://amol.blog/posts/"
         name = "Posts"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        pageref = "/categories/"
+        pageref = "https://amol.blog/categories/"
         name = "Categories"
         weight = 3
         pre = "internal"
         # post = "th"
     [[menu.main]]
-        pageref = "/tags/"
+        pageref = "https://amol.blog/tags/"
         name = "Tags"
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
-        pageref = "/about/"
+        pageref = "https://amol.blog/about/"
         name = "About"
         weight = 5
         pre = "internal"
