@@ -12,15 +12,19 @@ socialshare: true
    
 In this post, we will cover :
 
-1. [Classification of an API based on the usage](#API-Classification-Based-On-Usage)
-
-2. [Classification of an API based on release policies]
-(#API-Classification-Based-On-Release-Policies) 
-
-3. [Difference between API and Web Services](#Difference-between-API-and-WebServices)
-
-4. [Difference between Web Services and REST APIs](#Difference-between-WebServices-And-REST-API)
-<br>
+- [Types of an API](#types-of-an-api)
+  - [Types of API based on Usage:](#types-of-api-based-on-usage)
+    - [1. Libraries and frameworks as APIs](#1-libraries-and-frameworks-as-apis)
+    - [2. Operating systems APIs](#2-operating-systems-apis)
+    - [3. Remote APIs](#3-remote-apis)
+    - [4. Web APIs](#4-web-apis)
+  - [Types of API based on release policies:](#types-of-api-based-on-release-policies)
+      - [Private:](#private)
+      - [Partner:](#partner)
+      - [Public:](#public)
+  - [Difference between API, WebService \& REST API:](#difference-between-api-webservice--rest-api)
+    - [Difference between API and Web Services](#difference-between-api-and-web-services)
+    - [Difference between Web Services and REST APIs](#difference-between-web-services-and-rest-apis)
 
 ## Types of API based on Usage:<a name="API-Classification-Based-On-Usage"></a>
 <br>
@@ -80,7 +84,7 @@ Output:
 
 >***** script completed - exit code: 0 *****
 
-<center>![Windows native OS - COM-API Example](/Types-of-An-API/Windows native OS COM-API Example.png)_Windows native OS - COM-API Example_</center>
+<center>![Windows native OS - COM-API Example](/Windows native OS COM-API Example.png)_Windows native OS - COM-API Example_</center>
 
 ### 3. Remote APIs
 

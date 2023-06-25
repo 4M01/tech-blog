@@ -2,11 +2,11 @@
 # Site Settings
 
 baseURL = "https://amol.blog/"
-title = "4m01"
+title = "Amol's blog"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+# copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # Name of theme
 theme = "meme"
@@ -25,7 +25,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
@@ -39,7 +39,7 @@ enableRobotsTXT = true
 # Number of items per page in paginated
 # lists (valid for the `posts` homepage
 # layout in MemE)
-paginate = 5
+paginate = 10
 
 # URL related
 disablePathToLower = false
@@ -102,7 +102,7 @@ uglyURLs = false
     # Email
     email = "2amolchavan@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    # motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
@@ -220,7 +220,7 @@ uglyURLs = false
         name = "Categories"
         weight = 3
         pre = "internal"
-        post = "th"
+        # post = "th"
     [[menu.main]]
         pageref = "/tags/"
         name = "Tags"
@@ -356,7 +356,7 @@ uglyURLs = false
     ######################################
     # Site Info
 
-    siteLogo = "/icons/apple-touch-icon.png"
+    siteLogo = "/icons/custom.svg"
     # Note: used for JSON-LD, Open Graph
 
     siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
@@ -428,7 +428,7 @@ uglyURLs = false
     # Set to a non-negative number to limit
     # the number of posts displayed per
     # category/section.
-    limitPostsLimit = -1
+    limitPostsLimit = 5
 
 
     ######################################
@@ -1302,6 +1302,8 @@ uglyURLs = false
     iconColor = "#f06292"
     # Enable heartbeat animation?
     iconAnimation = true
+
+    displaySiteAuthorName = true
 
     # Display links to Hugo and MemE?
     displayPoweredBy = true
