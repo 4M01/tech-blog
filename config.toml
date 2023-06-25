@@ -202,7 +202,7 @@ uglyURLs = false
 #               `lang-switcher`, `search`)
 
 [menu]
-    ## Menu bar
+    # Menu bar
     # [[menu.main]]
     #     pageref = "/"
     #     name = "Home"
@@ -210,19 +210,19 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        pageref = "https://amol.blog/posts/"
+        pageref = "/posts/"
         name = "Posts"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        pageref = "https://amol.blog/categories/"
+        pageref = "/categories/"
         name = "Categories"
         weight = 3
         pre = "internal"
-        # post = "th"
+        post = "th"
     [[menu.main]]
-        pageref = "https://amol.blog/tags/"
+        pageref = "/tags/"
         name = "Tags"
         weight = 4
         pre = "internal"
