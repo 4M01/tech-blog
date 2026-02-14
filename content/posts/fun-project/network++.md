@@ -78,7 +78,7 @@ Speed up JMeter script creation and front end developement, espcailly working Gr
 This extension is built to remove friction from API testing workflows.
 
 
-You can download the extension from (here)[https://drive.google.com/file/d/1DFR5EUbu5c5inXTDmK4uB8wBOhbzXIL8/view?usp=sharing] 
+You can download the extension from [here](https://drive.google.com/file/d/1DFR5EUbu5c5inXTDmK4uB8wBOhbzXIL8/view?usp=sharing)
 
 ## Load ZIP Chrome Extension (Unpacked) — Quick Steps
 
