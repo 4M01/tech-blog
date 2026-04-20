@@ -216,19 +216,19 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        pageref = "/categories/"
+        url = "/categories/"
         name = "Categories"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
-        pageref = "/tags/"
+        url = "/tags/"
         name = "Tags"
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
-        pageref = "https://amol.blog/about/"
+        url = "/about/"
         name = "About"
         weight = 5
         pre = "internal"
@@ -840,7 +840,7 @@ uglyURLs = false
     displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
     displayExpiredDate = true
@@ -1088,7 +1088,7 @@ uglyURLs = false
     ######################################
     ## Drop Cap
 
-    enableDropCap = true
+    enableDropCap = false
     # Note: *global settings*
     #       `dropCap` in post’s Front Matter
     #       has a higher priority than here
@@ -1145,9 +1145,9 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here
