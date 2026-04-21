@@ -7,3 +7,6 @@ HUGO_REFERENCE.md
 
 fix-github-push.sh
 fix-github-push.ps1
+
+# Node modules
+node_modules/
