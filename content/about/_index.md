@@ -2,7 +2,7 @@
 title: "Author"
 date: 2023-06-25T17:49:00+05:30
 draft: false
-dropCap: false
+dropCap: true
 ---
 
 # About me
