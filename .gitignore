@@ -1,0 +1,9 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Local reference — not for version control
+HUGO_REFERENCE.md
+
+fix-github-push.sh
+fix-github-push.ps1
